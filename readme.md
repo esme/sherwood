@@ -1,4 +1,4 @@
-# Sherwood
+# Stockit
 
 > Project description
 
