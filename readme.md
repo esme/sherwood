@@ -1,4 +1,4 @@
-# Stockit
+# Stockaway
 
 > Project description
 

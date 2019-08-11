@@ -1,5 +1,5 @@
 {
-  "name": "stockit",
+  "name": "stockaway",
   "version": "1.0.0",
   "description": "> Project description",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/esme/stockit.git"
+    "url": "git+https://github.com/esme/stockaway.git"
   },
   "keywords": [],
   "author": "Esme",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/esme/stockit/issues"
+    "url": "https://github.com/esme/stockaway/issues"
   },
-  "homepage": "https://github.com/esme/stockit#readme",
+  "homepage": "https://github.com/esme/stockaway#readme",
   "dependencies": {
     "@babel/preset-react": "^7.0.0",
     "axios": "^0.19.0",
