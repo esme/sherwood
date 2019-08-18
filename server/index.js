@@ -8,7 +8,7 @@ const Stocks = require('stocks.js');
 // const db = require('./db');
 
 const app = express();
-const port = 3000;
+const port = 3000 || process.env.PORT;
 const stocks = new Stocks('PVY8MCGPGIBP69X4');
 
 // var schema = buildSchema(`
