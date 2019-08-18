@@ -5,7 +5,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const path = require('path');
 const Stocks = require('stocks.js');
-const db = require('./db');
+// const db = require('./db');
 
 const app = express();
 const port = 3000;
