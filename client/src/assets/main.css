@@ -1,0 +1,42 @@
+@font-face {
+  font-family: DIN Pro;
+  src: url(./fonts/FF_DIN_Pro_Regular_Italic.otf);
+}
+
+@font-face {
+  font-family: DIN Pro;
+  src: url(./fonts/FF_DIN_Pro_Bold_Italic.otf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: DIN Pro;
+  src: url(./fonts/FF_DIN_Pro_Black_Italic.otf);
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: DIN Pro;
+  src: url(./fonts/FF_DIN_Pro_Light_Italic.otf);
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: DIN Pro;
+  src: url(./fonts/FF_DIN_Pro_Medium_Italic.otf);
+  font-weight: 500;
+}
+
+body {
+  background-color: #222;
+  color: #fff;
+}
+
+#stock-chart-container {
+  font-family: Din Pro;
+  height: 100%;
+}
+
+#stock-chart-price, #stock-chart-name {
+  font-size: 36px;
+}

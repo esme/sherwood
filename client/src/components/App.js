@@ -49,9 +49,9 @@ class App extends React.Component {
   render() {
     let { prices, dates, desc, name } = this.state;
     return (
-      <div style={{height: '100%'}}>
-        {name && <h1>{name}</h1>}
-        <div>
+      <div id="stock-chart-container">
+        {name && <h1 id="stock-chart-name">{name}</h1>}
+        <div id="stock-chart-price">
           <span>$</span>
           <span>1</span>
           <span>9</span>
