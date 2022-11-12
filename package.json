@@ -36,7 +36,7 @@
     "react-dom": "^16.8.6",
     "stocks.js": "0.0.17",
     "style-loader": "^1.0.0",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
